@@ -1,4 +1,3 @@
-# criptografiadearquivos
 Código em java que permite a criação, criptografia e decriptografia de arquivos .txt,
 
 *Basicamente, o sistema captura os bytes de um arquivo que ele mesmo gera e salva num array de bytes;
